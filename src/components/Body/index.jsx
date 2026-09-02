@@ -4,7 +4,7 @@ function Body() {
     return (
         <div className="content">
             <p>Website under construction... come back soon!</p>
-            <div>
+            {/* <div>
                 <p>Meanwhile, please enjoy this picture of a cute dog.</p>
                 <img 
                     class="indy" 
@@ -13,7 +13,7 @@ function Body() {
                     width="50%"
                     height="50%"
                 />
-            </div>
+            </div> */}
         </div>
     )
 }
