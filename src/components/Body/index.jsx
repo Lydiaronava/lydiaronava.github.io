@@ -4,16 +4,16 @@ function Body() {
     return (
         <div className="content">
             <p>Website under construction... come back soon!</p>
-            {/* <div>
+            <div>
                 <p>Meanwhile, please enjoy this picture of a cute dog.</p>
                 <img 
                     class="indy" 
-                    src="indy.jpg" 
+                    src="public/indy.jpg" 
                     alt="A picture of a small white dog, a bichon maltais, sitting on a colorful folding chair." 
                     width="50%"
                     height="50%"
                 />
-            </div> */}
+            </div>
         </div>
     )
 }
