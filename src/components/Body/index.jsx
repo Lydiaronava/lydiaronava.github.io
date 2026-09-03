@@ -5,7 +5,7 @@ function Body() {
         <div className="content">
             <p>Website under construction... come back soon!</p>
             <div>
-                <p>Meanwhile, please enjoy this picture of a cute dog.</p>
+                <p>In the mean time, please enjoy this picture of a cute dog.</p>
                 <img 
                     class="indy" 
                     src="/indy.jpg" 
